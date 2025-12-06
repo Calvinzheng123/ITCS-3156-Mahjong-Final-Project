@@ -1,6 +1,7 @@
 # Predicting Mahjong Discard Decisions with Machine Learning
 
 This project uses real Japanese Riichi Mahjong game logs from Tenhou to build a model that predicts which tile a player will discard next, given the current game state.
+from https://www.kaggle.com/datasets/hphphp123321/tenhou-4-player-riichi-mahjong-dataset
 
 ## Dataset
 
