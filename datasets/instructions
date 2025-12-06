@@ -1,0 +1,4 @@
+To use this project, download the dataset from Kaggle at https://www.kaggle.com/datasets/hphphp123321/tenhou-4-player-riichi-mahjong-dataset.
+After signing in, click the Download button and extract the ZIP file. 
+Inside, you’ll find the large SQLite database called datasets_positive.db, which contains all of the Mahjong game states used in this project. 
+Once extracted, place the file in your project folder and the notebook will be able to load it directly for preprocessing and model training.
